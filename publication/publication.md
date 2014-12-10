@@ -23,13 +23,19 @@ Dave Clements, Karen Cranston, Hilmar Lapp
     impact: acquire persistent identifier that is broadly supported in
     scholarly communication.
   * Completeness is a judgment call: which parts are needed to
-    understand, judge, and recreate the results reported in the paper. 
+    understand, judge, and recreate the results reported in the paper.
+  * Are the journal's or funder's requirements for sharing of research
+    products met?
+  * Are the published products reusable? Are they in a format and
+    sufficiently documented that others can build on them?
 * For whom does this need to happen?
   * Collaborators
   * Peer reviewers, journal editors
   * Broad scientific community, or generally the public
 * Is it ready for public consumption?
-  * Are things in which copyright vests properly licensed for reuse
+  * Are things eligible for copyright protection properly licensed for reuse
     (and why does this matter)?
+  * Is there enough information that makes it easy for prospective
+    reusers to give credit in the desired form?
   * Is there an appropriate amount of documentation? READMEs etc.
   * Are there sufficient metadata for each component?
