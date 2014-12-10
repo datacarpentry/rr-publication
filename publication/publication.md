@@ -14,4 +14,9 @@ Dave Clements
 * Exercise: Catalog the things you have from the workshop
   * where do they currently live?
   * how many are already published?
-  * what still needs to happen?
+* What still needs to happen?
+  * Published need not mean archived: availability and access for
+    perpetuity.
+  * Published need not mean easily citable, and easily trackable for
+    impact: acquire persistent identifier that is broadly supported in
+    scholarly communication. 
