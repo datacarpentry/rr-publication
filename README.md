@@ -3,7 +3,7 @@ Materials related to publication of research outputs (data, code, workflows, etc
 
 ## People
 
-Dave Clements (@tnabtaf), **Karen Cranston (@kcranston)**, Hilmar Lapp (@hlapp) (lead in **bold**)
+Dave Clements ([@tnabtaf]), **Karen Cranston ([@kcranston])**, Hilmar Lapp ([@hlapp]) (lead in **bold**)
 
 ## Links
 
@@ -39,3 +39,7 @@ Dave Clements (@tnabtaf), **Karen Cranston (@kcranston)**, Hilmar Lapp (@hlapp) 
     reusers to give credit in the desired form?
   * Is there an appropriate amount of documentation? READMEs etc.
   * Are there sufficient metadata for each component?
+
+[@tnabtaf]: http://github.com/tnabtaf
+[@kcranston]: http://github.com/kcranston
+[@hlapp]: http://github.com/hlapp
