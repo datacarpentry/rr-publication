@@ -157,13 +157,6 @@ how to choose?
 * is it citable? (does it provide DOIs)
 * is your purpose archival, sharing or publication?
 
-university libraries try to help
-=====
-title: false
-
-<!-- Replace with your university library's data management guide -->
-<iframe width="100%" height="700px" src="http://library.duke.edu/data/guides/data-management"></iframe>
-
 what goes where when?
 =====
 
@@ -182,6 +175,13 @@ what goes where when?
     - share markdown on RPubs
     - archive a snapshot of data in Dryad
     - code snapshot to Zenodo 
+
+university libraries try to help
+=====
+title: false
+
+<!-- Replace with your university library's data management guide -->
+<iframe width="100%" height="700px" src="http://library.duke.edu/data/guides/data-management"></iframe>
 
 how to share, publish: file formats
 =====
