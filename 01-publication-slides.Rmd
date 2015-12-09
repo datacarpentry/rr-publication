@@ -8,67 +8,69 @@ output:
 ---
 
 
-# sharing, publishing, archiving
+# Sharing, publishing and archiving research products
 
-author: Karen Cranston, Hilmar Lapp
+authors: Reproducible Science participants
 
-## Non synomymous
+## What is the difference between sharing, publishing & archiving?
 
-sharing, publishing, archiving
-* _shared_ could mean I emailed it to you ;)
+**Non-synomymous terms**
+
+* _shared_: any way of sharing information, could mean I emailed it to you.
 * _publish_ : citable artifact, discoverable
 * _archive_ : long-term preservation
 
-why, what, when, where, how, with whom to share & publish?
+We'll be focusing on publishing and archiving
 
-## why publish?
+## why, what, when, where, how, with whom to publish & archive?
 
 * why publish?
 * what materials do we need to publish?
-* when do we make them available? 
+* when do we make them available?
 * who are we sharing with?
 * where do we publish various outputs?
 * how do we prepare materials for publication?
 
-For the remaining slides we are going to assume that we are at the point of publication.
+For the remaining slides we are going to assume that we are at the point of submitting our manuscript.
 
 ## why?
 
-incremental: true
-
+* increased visibility / citation
 * funding agency / journal requirement
 * community expects it
-* increased visibility / citation
 
-## increased visibility / citation
 
-[![Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://dfzljdn9uc3pi.cloudfront.net/2013/175/1/fig-1-full.png)](https://dx.doi.org/10.7717/peerj.175)
+## Increased visibility / citation
+<div class=columns-2>
+<img src=https://dfzljdn9uc3pi.cloudfront.net/2013/175/1/fig-1-full.png width=500>
 
-***
 
-Piwowar & Vision (2013) "[Data reuse and the open data citation advantage.](https://dx.doi.org/10.7717/peerj.175)" PeerJ, e175
 
 <small>Figure 1: Citation density for papers with and without publicly available microarray data, by year of study publication.</small>
 
+[Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://dx.doi.org/10.7717/peerj.175)
+
+</div>
+
+## Funding agency or journal requirements
+
+
 ## why?
 
-
+* increased visibility / citation
 * funding agency / journal requirement
 * community expects it
-* increased visibility / citation
 * _better research_
 
-## better research
+## Better Research
 
-left: 70%
+<div class=columns-2>
+<img src=http://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0026828.g001 width=450>
 
-[![Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0026828.g001)](http://dx.doi.org/10.1371/journal.pone.0026828)
+<small>Figure 1. Distribution of reporting errors per paper for papers from which data were shared and from which no data were shared.</small>
 
-***
-
-<small>Wicherts et al (2011) "[Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://dx.doi.org/10.1371/journal.pone.0026828)" PLoS ONE 6(11): e26828</small>
-
-<p style="font-size: 75%">Figure 1. Distribution of reporting errors per paper for papers from which data were shared and from which no data were shared.</p>
+[Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://dx.doi.org/10.1371/journal.pone.0026828)
+</div>
 
 ## why?
 
@@ -80,17 +82,29 @@ left: 70%
 * more efficient, less redundant science
     - by allowing others to build upon our work
 
-## Activity (in pairs)
+## who?
 
-type: prompt
+### Who do we need to share with?
 
-<br/><br/>
+* collaborators
+* peer reviewers & journal editors
+* broad scientific community
+* generally the public
+
+_For research to be reproducible, the research products (data, code) need to be publicly available in a form that people can find and understand them._
+
+## what?
+
+### Activity (in pairs)
+
 **Catalog the artifacts you produced this morning.**
 * What needs to be published?
 * What does not need to be published?
 * Anything that cannot be published?
 
-## It depends
+## why?
+
+### Activity outcomes: it depends
 
 share? _yes!_
 * starting data set
@@ -99,8 +113,6 @@ share? _yes!_
 * analysis scripts
 * source code
 * readme
-
-***
 
 share? _maybe?_
 * raw data
@@ -113,9 +125,10 @@ share? _no!_
 * pre-existing restrictive license
 * passwords, private keys
 
-where?
-=====
-type: prompt
+## when?
+
+
+## where?
 
 * Domain-specific data repository (GenBank, PDB)
 * Source code hosting service ([GitHub](http://github.com), [Bitbucket](http://bitbucket.com))
@@ -123,12 +136,11 @@ type: prompt
 * Institutional repository
 * Sharing services ([RPubs](http://rpubs.com), [iPython Notebook Viewer](http://nbviewer.ipython.org/), Dropbox, Google Drive)
 
+Include discussion of archival options
 <br/>
 **Discuss**: Contrast with journal supplementary materials.
 
 ## many repositories
-
-title: false
 
 [![Registry of Research data Repositories](http://www.re3data.org/wp-content/uploads/2013/09/cropped-re3data_Logo_RGB_header.png)](http://re3data.org)
 [![Growth of re3data.org](http://www.re3data.org/wp-content/uploads/2014/11/growth-re3data.png)](http://www.re3data.org/2014/11/over-1000-research-data-repositories-indexed-in-re3data-org/)
@@ -160,7 +172,7 @@ title: false
 * upon publication
     - share markdown on RPubs
     - archive a snapshot of data in Dryad
-    - code snapshot to Zenodo 
+    - code snapshot to Zenodo
 
 ## university libraries try to help
 
