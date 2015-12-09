@@ -1,10 +1,6 @@
 # Publication lesson
 Materials related to publication of research outputs (data, code, workflows, etc)
 
-## People
-
-Dave Clements ([@tnabtaf]), **Karen Cranston ([@kcranston])**, Hilmar Lapp ([@hlapp]) (lead in **bold**)
-
 ## Links
 
 * [coggle diagram](https://coggle.it/diagram/54886415722e095e0afe1483)
@@ -40,6 +36,11 @@ Dave Clements ([@tnabtaf]), **Karen Cranston ([@kcranston])**, Hilmar Lapp ([@hl
   * Is there an appropriate amount of documentation? READMEs etc.
   * Are there sufficient metadata for each component?
 
-[@tnabtaf]: http://github.com/tnabtaf
+## People and credits
+
+This lesson was first created at the [1. Reproducible Science Curriculum Hackathon]. The corresponding author is **Karen Cranston ([@kcranston])**. See the commit log for other contributors.
+
+Please post feedback and issues with the lesson on the repository's issue tracker. For instructor questions about teaching this lesson, you can also contact the corresponding author directly.
+
 [@kcranston]: http://github.com/kcranston
-[@hlapp]: http://github.com/hlapp
+[1. Reproducible Science Curriculum Hackathon]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014
