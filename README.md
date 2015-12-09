@@ -7,7 +7,7 @@ Dave Clements ([@tnabtaf]), **Karen Cranston ([@kcranston])**, Hilmar Lapp ([@hl
 
 ## Links
 
-* [coggle diagram](https://coggle.it/diagram/54886415722e095e0afe1483)
+* [coggle diagram](img/Reproducible_Science_CurriculumLesson_on_Publishing.png)
 
 ## Notes
 
