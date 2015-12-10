@@ -118,9 +118,8 @@ _For research to be reproducible, the research products (data, code) need to be 
 - What does not need to be published?
 - Anything that cannot be published?
 
-## what?
 
-### Activity outcomes: it depends
+## Activity outcomes
 
 <div class=columns-2>
 
@@ -147,6 +146,12 @@ share? _no!_
 * passwords, private keys
 
 </div>
+
+## Activity outcomes
+
+Advice: One way to determine what you need to publish is to go through and redo the analyses in your paper. Make note of the data and code and notes you needed to do that analysis. Make sure all of that is available. This might seem time consuming, but it assures that what you think you did is what you actually did. 
+
+[Computing Workflows for Biologists: A Roadmap](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303)
 
 ## when?
 
