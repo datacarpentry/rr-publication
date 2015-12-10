@@ -3,7 +3,7 @@ Materials related to publication of research outputs (data, code, workflows, etc
 
 ## Links
 
-* [coggle diagram](https://coggle.it/diagram/54886415722e095e0afe1483)
+* [coggle diagram](https://raw.githubusercontent.com/apawlik/rr-publication/master/img/Reproducible_Science_CurriculumLesson_on_Publishing.png)
 
 ## Notes
 
