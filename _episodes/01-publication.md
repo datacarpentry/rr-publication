@@ -12,8 +12,7 @@ keypoints:
 - "Choose the right license for you"
 - "Manipulate data in a reproducible manner"
 output:  
-      html_document: 
-        keep_md: yes
+      html_document
 ---
 
 
