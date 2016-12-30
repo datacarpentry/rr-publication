@@ -2,9 +2,10 @@
 layout: lesson
 root: .
 ---
-FIXME: home page introduction
+Welcome to the Data Carpentry lesson on Publication of Reproducible Research with `R`.
 
 > ## Prerequisites
 >
-> FIXME
+> There is no software required for this lesson.
+>
 {: .prereq}

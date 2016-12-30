@@ -3,4 +3,4 @@ layout: page
 title: "Instructor Notes"
 permalink: /guide/
 ---
-FIXME
+[Instructor notes](../publication-01-instr-notes.md)
