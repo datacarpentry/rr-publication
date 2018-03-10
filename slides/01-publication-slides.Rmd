@@ -48,7 +48,7 @@ For the remaining slides we are going to assume that we are at the point of subm
 
 <small>Figure 1: Citation density for papers with and without publicly available microarray data, by year of study publication.</small>
 
-[Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://dx.doi.org/10.7717/peerj.175)
+[Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://doi.org/10.7717/peerj.175)
 
 </div>
 
@@ -77,7 +77,7 @@ For the remaining slides we are going to assume that we are at the point of subm
 
 <small>Figure 1. Distribution of reporting errors per paper for papers from which data were shared and from which no data were shared.</small>
 
-[Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://dx.doi.org/10.1371/journal.pone.0026828)
+[Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](https://doi.org/10.1371/journal.pone.0026828)
 </div>
 
 ## why?
@@ -296,7 +296,7 @@ Using standard data formats is sometimes required, but even when it's not, confo
 
 <img src=images/journal.pcbi.1002598.g002.png width=500>
 
-<font size=-1>Morin, Andrew, Jennifer Urban, and Piotr Sliz. 2012. “[A Quick Guide to Software Licensing for the Scientist-Programmer.](http://dx.doi.org/10.1371/journal.pcbi.1002598)” PLoS Computational Biology 8 (7): e1002598</font>
+<font size=-1>Morin, Andrew, Jennifer Urban, and Piotr Sliz. 2012. “[A Quick Guide to Software Licensing for the Scientist-Programmer.](https://doi.org/10.1371/journal.pcbi.1002598)” PLoS Computational Biology 8 (7): e1002598</font>
 
 
 ## Creative Commons
