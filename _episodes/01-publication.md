@@ -47,7 +47,7 @@ For the remaining slides we will assume tour manuscript is submission ready.
 
 ## Increased visibility and citations
 ![Citation density for papers with and without publicly available microarray data, by year of study publication](../fig/fig-1-full.png)
-[Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://dx.doi.org/10.7717/peerj.175)
+[Piwowar & Vision (2013) Data reuse and the open data citation advantage.](https://doi.org/10.7717/peerj.175)
 
 
 ## Funding agency or journal requirements
@@ -69,7 +69,7 @@ For the remaining slides we will assume tour manuscript is submission ready.
 - *better research*
 
 ![Distribution of reporting errors per paper for papers from which data were shared and from which no data were shared](../fig/journal.pone.0026828.g001.png)
-[Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](http://dx.doi.org/10.1371/journal.pone.0026828)
+[Wicherts et al (2011) Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results.](https://doi.org/10.1371/journal.pone.0026828)
 
 ## Why?
 
@@ -270,7 +270,7 @@ Using standard data formats is sometimes required, but even when it's not, confo
 ## software licensing guide
 ![](../fig/journal.pcbi.1002598.g002.png)
 
-[Morin, Andrew, Jennifer Urban, and Piotr Sliz. 2012. A Quick Guide to Software Licensing for the Scientist-Programmer.](http://dx.doi.org/10.1371/journal.pcbi.1002598)” 
+[Morin, Andrew, Jennifer Urban, and Piotr Sliz. 2012. A Quick Guide to Software Licensing for the Scientist-Programmer.](https://doi.org/10.1371/journal.pcbi.1002598)” 
 
 
 ## Creative Commons
